@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb+OvpXdpRWt8HnfHZLR4CctV24a8B1VZ9DPmDagzrB86tmM/oIWJCxrQ5qxKT3e1t7WhXJ4P3JmWt50/uU2+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eiker\\Desktop\\cs2 radarmenu\\basic esp\\basic esp\\basic esp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eiker\\.nuget\\packages\\clickabletransparentoverlay\\9.1.0\\clickabletransparentoverlay.9.1.0.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\imgui.net\\1.91.0.1\\imgui.net.1.91.0.1.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\sharpgen.runtime\\2.1.2-beta\\sharpgen.runtime.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\sharpgen.runtime.com\\2.1.2-beta\\sharpgen.runtime.com.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\vortice.d3dcompiler\\3.3.4\\vortice.d3dcompiler.3.3.4.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\vortice.direct3d11\\3.3.4\\vortice.direct3d11.3.3.4.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\vortice.directx\\3.3.4\\vortice.directx.3.3.4.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\vortice.dxgi\\3.3.4\\vortice.dxgi.3.3.4.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\vortice.mathematics\\1.7.2\\vortice.mathematics.1.7.2.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.1\\microsoft.netcore.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.1.nupkg.sha512",
+    "C:\\Users\\eiker\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

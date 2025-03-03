@@ -1,0 +1,2 @@
+C:\Users\munke\Documents\c#\basic esp\basic esp\publish\basic esp.pdb
+C:\Users\munke\Documents\c#\basic esp\basic esp\publish\basic esp.exe

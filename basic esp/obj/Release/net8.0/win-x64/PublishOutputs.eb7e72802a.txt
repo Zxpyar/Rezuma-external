@@ -1,0 +1,2 @@
+C:\Users\munke\Documents\c#\Rezuma external\publish\Rezuma External.pdb
+C:\Users\munke\Documents\c#\Rezuma external\publish\Rezuma External.exe

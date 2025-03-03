@@ -1,0 +1,33 @@
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Rezuma External.exe
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Rezuma External.deps.json
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Rezuma External.runtimeconfig.json
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Rezuma External.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Rezuma External.pdb
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\ClickableTransparentOverlay.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\ImGui.NET.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\WindowsInput.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\SharpGen.Runtime.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\SixLabors.ImageSharp.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\swed64.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Vortice.D3DCompiler.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Vortice.Direct3D11.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Vortice.DirectX.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Vortice.DXGI.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\Vortice.Mathematics.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\bin\Release\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.csproj.AssemblyReference.cache
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.AssemblyInfoInputs.cache
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.AssemblyInfo.cs
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.csproj.CoreCompileInputs.cache
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma E.0CE8EA4B.Up2Date
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\refint\Rezuma External.dll
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.pdb
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\Rezuma External.genruntimeconfig.cache
+C:\Users\munke\Documents\c#\Rezuma external\basic esp\obj\Release\net8.0\ref\Rezuma External.dll
