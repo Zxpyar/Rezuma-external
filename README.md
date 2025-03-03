@@ -5,10 +5,10 @@ pasted ahh shit
 # Features
 Box esp
 Corner box
-fill box & gradient fill box
-aimbot (mad detected)
-triggerbot
-idfk what else havent used it for like 1 month
+Fill & Gradient Fill box
+Aimbot (more aimlock xD)
+Triggerbot
+idfk what else i forgot
 
 # pls star
 visit https://fakecrime.bio/zxpyar i need more views
