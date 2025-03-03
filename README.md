@@ -1,14 +1,12 @@
-# Rezuma-v1
-Full source code to Rezuma external
-
-pasted ahh shit
-# Features
-Box esp
-Corner box
-Fill & Gradient Fill box
-Aimbot (more aimlock xD)
-Triggerbot
-idfk what else i forgot
-
-# pls star
+# Rezuma external
 visit https://fakecrime.bio/zxpyar i need more views
+Star pls
+
+- features
+- Box esp
+- Corner box
+- fill box
+- gradient fill box
+- Aimbot (more aimlock)
+- Triggerbot
+- idkf what else
